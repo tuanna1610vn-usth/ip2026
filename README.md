@@ -1,5 +1,5 @@
 USTH Image Processing 2026
 ===================================
 
-* Your name: **Nguyễn Anh Tuấn**
-* Your student ID: **2411000**
+* Student name: **Nguyễn Anh Tuấn**
+* Student ID: **2411000**
